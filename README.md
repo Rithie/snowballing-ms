@@ -26,4 +26,4 @@ Who to ask? Snowball Sampling The first respondent refers a friend, who refers a
 
 ###### Written by [Euler Alvarenga](https://twitter.com/Rithie)
 
-###### Written by [Lucas de Azeredo](https://twitter.com/)
+###### Written by [Lucas de Azeredo](https://github.com/deazeredo)
