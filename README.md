@@ -1,8 +1,11 @@
 # Snowballing-ms
+
+## Angular 2 + Electron 
+
+
 ### Description 
 
-This project aims to improve researcher's job while doing their bibliographic reviews by using the snowballing technique.
-
+This Angular 2 and Electron app that app aims to improve researcher's job while doing their bibliographic reviews by using the snowballing technique. The algorithm crawls through papers references build a graph to further analysis.
 
 
 **What is Snowball Sampling?**
@@ -19,7 +22,22 @@ Who to ask? Snowball Sampling The first respondent refers a friend, who refers a
   - in this method, we can choose whether the node is in or out.
 
 
+## Installation
 
+To get started, clone the repo to your target directory. This app uses Webpack, and a few commands have been provided as scripts in `package.json`.
+
+```bash
+npm install
+
+# To build only
+npm run build
+
+# To watch for changes
+npm run watch
+
+# Start the Electron app
+npm run electron
+```
 
 
 ### Authors
